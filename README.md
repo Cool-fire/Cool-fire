@@ -16,12 +16,10 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/l0O9xncMzILK2mRvW/giphy.gif" height=250 width=200/>
-
 Hi, I'm Upendra Reddy, a Software Engineer 👨‍💻 from India, Currently working as a Software Engineer  🙍🏽‍♂️ [@Amazon](https://www.amazon.com/) and GSoC'19 student under [@Rocket.Chat](https://rocket.chat/) 
 
 
-I enjoy listening EDM 🎵 especially KSHMR's music. I love hiking 🥾 and playing badminton 🏸 ,  💬 I love to produce music, but I am a noob lol 🥴.
+I enjoy listening EDM 🎵. I love hiking 🥾 and playing badminton 🏸
 You can 📫 reach out to me at upendrareddy2511@gmail.com
 
 **Languages and Tools:**
