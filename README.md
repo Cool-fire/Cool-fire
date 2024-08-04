@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Upendra Reddy, a Software Engineer 👨‍💻 from India, Currently working as a Software Engineer II  🙍🏽‍♂️ [@Amazon Prime Video](https://www.amazon.com/) and was previously GSoC'19 student under [@Rocket.Chat](https://rocket.chat/) 
+Hi, I'm Upendra Reddy, a Software Engineer 👨‍💻 from India, Currently working as a Software Engineer II  🙍🏽‍♂️ [@Amazon Ads](https://www.amazon.com/) and was previously GSoC'19 student under [@Rocket.Chat](https://rocket.chat/) 
 
 
 I enjoy listening EDM 🎵. I love hiking 🥾 and playing badminton 🏸
