@@ -1,0 +1,1 @@
+Stop signal capture test.
